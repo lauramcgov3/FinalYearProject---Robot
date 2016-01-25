@@ -1,6 +1,7 @@
 //
 //  AppDelegate.h
-//  HelloRomo
+//  Sobot
+//  Laura McGovern
 //
 
 #import <UIKit/UIKit.h>
